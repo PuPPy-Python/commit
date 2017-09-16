@@ -1,5 +1,5 @@
-# commit
-Guides for commiting to Open Source Software  
+# Commit
+Guides for commiting to Open Source Python Projects  
 
 ## General Guides  
 
@@ -22,3 +22,9 @@ https://pandas.pydata.org/pandas-docs/stable/contributing.html
 
 #### Django  
 https://docs.djangoproject.com/en/dev/internals/contributing/  
+
+#### Style Guides  
+https://www.python.org/dev/peps/pep-0008/  
+https://google.github.io/styleguide/pyguide.html  
+
+
