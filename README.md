@@ -3,8 +3,11 @@ Guides for commiting to Open Source Python Projects
 
 ### General Guides  
 
-Landing page for first time commiting:  
+Landing page for first time commiting  
 http://www.firsttimersonly.com/
+
+Getting a project ready for open source commiting  
+http://opensource-events.com/
 
 The Hitchhikers Guide to Python  
 http://docs.python-guide.org/en/latest/notes/contribute/  
